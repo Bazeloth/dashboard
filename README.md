@@ -1,6 +1,6 @@
 # Introduction
 
-This is an assignment from AI Infrasolutions. 
+This is an assignment regarding AI Infrasolutions. 
 
 ## Installation instructions
 
